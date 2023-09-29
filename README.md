@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamsingh2468
 -    I’m interested in webdevelopment -
-🌱 I’m currently learning react.js and framework of react.
+🌱 I’m have worked on various project such as mern-stack full-stack e.t.c.
 💞️ I’m looking to collaborate or help on various project of javascript with framework
 📫 How to reach me 1 By sending mail shubhamsinha3396@gmail.com. no-8434836204
 
