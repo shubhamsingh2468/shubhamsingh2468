@@ -1,5 +1,5 @@
 # Hi there, I'm Shubham 👋
-### Full-Stack & AI Systems Developer
+### Tech Founder & AI Full-Stack Developer
 
 I build scalable full-stack applications and high-throughput AI tools. Passionate about transforming unstructured audio, text, and real-time data into actionable software.
 
