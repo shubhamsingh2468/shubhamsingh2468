@@ -36,3 +36,10 @@ I build scalable full-stack applications and high-throughput AI tools. Passionat
 * 📦 **[View Repository](https://github.com/shubhamsingh2468/Fintech-App)**
 
 * **Tech Stack:** React Native / Flutter, Node.js, Express, PostgreSQL, AI Analytics Engine
+
+### 📸 App Screenshots
+
+<img width="300"  alt="WhatsApp Image 2026-09-11 at 09 24 04" src="https://github.com/user-attachments/assets/637ec341-ff87-4c65-aeef-2c7d887c356b" />
+<img width="300"  alt="WhatsApp Image 2026-09-11 at 09 24 04 (2)" src="https://github.com/user-attachments/assets/efda0223-c963-40ad-a1a0-6340c83d03ac" />
+<img width="300"  alt="WhatsApp Image 2026-09-11 at 09 24 04 (1)" src="https://github.com/user-attachments/assets/f54f750e-bfe4-4c7a-92ab-da311ee0cd6a" />
+
