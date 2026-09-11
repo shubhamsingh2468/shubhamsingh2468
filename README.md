@@ -15,7 +15,20 @@ I build scalable full-stack applications and high-throughput AI tools. Passionat
 
 * **Tech Stack:** React Native / Expo, Node.js, Python, OpenAI Whisper, Claude API, PostgreSQL / Prisma, MongoDB, Tailwind CSS
 
----
+  ### 📸 App Screenshots
+  <img width="300"  alt="1ec225c4-f6fa-4a5a-9351-4a98d3dd1d1c" src="https://github.com/user-attachments/assets/9c0c76f0-8728-42da-a2af-0a6a6c9e4892" />
+
+  <img width="300"  alt="WhatsApp Image 2026-09-11 at 09 05 18" src="https://github.com/user-attachments/assets/58c611c9-f521-4c9a-8b0b-732f18a0d594" />
+
+  <img width="300"  alt="WhatsApp Image 2026-09-11 at 09 05 17" src="https://github.com/user-attachments/assets/7d1fc281-afc6-4f86-9f1d-ad6fc6bfe63f" />
+
+
+
+  
+
+
+
+
 
 ### 📌 [UC-Pay (AI-Powered Fintech Platform)](https://github.com/shubhamsingh2468/Fintech-App)
 > **UC-Pay** is an AI-driven fintech application designed for automated financial analytics, seamless transaction processing, and intelligent user spending insights.
